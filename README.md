@@ -22,8 +22,3 @@ Technologies Used:
 -  Pandas
 -  openpyxl (for Excel output)
 
-File Summary
-- PigsFlyPolls.csv: master poll file (input)
-- PigsFlyPolls_updated.csv: weekly updates (input)
-- PigsFlyPolls2.csv: cleaned and merged data (output)
-- PigsFlyPolls.xlsx: Excel output with summary row
